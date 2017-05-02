@@ -25,5 +25,12 @@
     "window.zoomLevel": 1,
     "html.format.unformatted": "a, abbr, acronym, b, bdo, big, br, button, cite, code, dfn, em, i, img, input, kbd, label, map, object, q, samp,  small, span, strong, sub, sup, textarea, tt, var",
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "explorer.openEditors.visible": 0,
+    "zenMode.hideTabs": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true
 }
