@@ -1,0 +1,29 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.minimap.enabled": true,
+    "files.associations": {
+        "**/**.cake": "csharp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/*.js.map": true
+        // "**/*.js":true
+    },
+    "files.autoSave": "afterDelay",
+    "typescript.check.tscVersion": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.iconTheme": "vs-seti",
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript"
+    ],
+    "window.zoomLevel": 1,
+    "html.format.unformatted": "a, abbr, acronym, b, bdo, big, br, button, cite, code, dfn, em, i, img, input, kbd, label, map, object, q, samp,  small, span, strong, sub, sup, textarea, tt, var",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "window.menuBarVisibility": "toggle"
+}
