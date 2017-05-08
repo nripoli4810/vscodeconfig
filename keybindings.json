@@ -18,5 +18,10 @@
         "key": "ctrl+win+.",
         "when": "terminalFocus",
         "command": "workbench.action.toggleMaximizedPanel"
+    },
+    {
+        "key": "ctrl+win+v",
+        "when": "editorFocus",
+        "command": "markdown.showPreviewToSide"
     }
 ]
