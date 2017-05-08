@@ -32,5 +32,8 @@
     "explorer.openEditors.visible": 0,
     "zenMode.hideTabs": false,
     "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "tslint.enable": true,
+    "tslint.run": "onSave",
+    "tslint.autoFixOnSave": true
 }
