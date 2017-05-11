@@ -36,7 +36,11 @@
     "files.insertFinalNewline": true,
     "tslint.enable": true,
     "tslint.run": "onSave",
+<<<<<<< HEAD
     "tslint.autoFixOnSave": true,
     "markdown.preview.scrollPreviewWithEditorSelection": false,
     "markdown.preview.scrollEditorWithPreview": false
+=======
+    "tslint.autoFixOnSave": true
+>>>>>>> 62363a6617c974554b4d887890d37aa27e2bfb3b
 }
