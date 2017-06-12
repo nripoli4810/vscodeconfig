@@ -2,25 +2,30 @@
 [
     {
         "key": "ctrl+win+,",
+        "key": "ctrl+cmd+,",
         "command": "workbench.action.terminal.focus",
         "when": "!terminalFocus"
     },
     {
         "key": "ctrl+win+,",
+        "key": "ctrl+cmd+,",
         "command": "workbench.action.terminal.toggleTerminal",
         "when": "terminalFocus"
     },
     {
         "key": "ctrl+win+n",
+        "key": "ctrl+cmd+n",
         "command": "workbench.action.terminal.new"
     },
     {
         "key": "ctrl+win+.",
+        "key": "ctrl+cmd+.",
         "when": "terminalFocus",
         "command": "workbench.action.toggleMaximizedPanel"
     },
     {
         "key": "ctrl+win+v",
+        "key": "ctrl+cmd+v",
         "when": "editorFocus",
         "command": "markdown.showPreviewToSide"
     },
@@ -34,10 +39,12 @@
     },
     {
         "key": "ctrl+win+o",
+        "key": "cmd+o",
         "command": "workbench.action.files.openFolder"
     },
     {
         "key": "ctrl+k ctrl+o",
+        "key": "cmd+k cmd+o",
         "command": "-workbench.action.files.openFolder"
     }
 ]
